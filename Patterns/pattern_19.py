@@ -5,9 +5,9 @@ for row in range(1,6):
     print()
 
 
-# def pattern18(n):
+# def pattern19(n):
 #     for row in range(1,n+1):
 #         for column in range(1,n+1):
 #             print(row*column,end=" ")
 #         print()
-# pattern18(5)
+# pattern19(5)
